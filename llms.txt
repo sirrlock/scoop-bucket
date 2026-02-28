@@ -1,0 +1,22 @@
+# sirrlock/scoop-bucket — Sirr Scoop Bucket (Windows)
+
+Scoop bucket for Sirr — the ephemeral secret manager on Windows.
+
+## Install
+
+scoop bucket add sirrlock https://github.com/sirrlock/scoop-bucket
+scoop install sirrlock/sirrd   # Server daemon
+scoop install sirrlock/sirr    # CLI client
+
+## Packages
+
+sirrd — Sirr server daemon (self-hosted ephemeral secret vault)
+sirr  — Sirr CLI client (push, get, and manage secrets)
+
+## Mac / Linux
+
+Use Homebrew: brew tap sirrlock/tap
+
+## Source
+
+github.com/sirrlock/scoop-bucket
