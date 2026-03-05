@@ -1,17 +1,17 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.33",
   "description": "CLI client for Sirr \u2014 push, get, and manage ephemeral secrets",
   "homepage": "https://github.com/sirrlock/sirr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.26/sirr-windows-x64.zip",
-      "hash": "70c8bd36fcef0082a0435f25119997862b06e203e85d203230295217a95ca0b9",
+      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.33/sirr-windows-x64.zip",
+      "hash": "fd7bc188cf78b1c0c50563ffd88f391c7eea2ced8d6836c63ca799493513d414",
       "bin": "sirr.exe"
     },
     "arm64": {
-      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.26/sirr-windows-arm64.zip",
-      "hash": "3b313f1c8705b7ac765b085bbb7153567da3fb69f4b0ebe4e99c0eae2267c0a4",
+      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.33/sirr-windows-arm64.zip",
+      "hash": "adab874221575c5f2a12371e4b352dff6695163c15cf30dd0301795360fc8df0",
       "bin": "sirr.exe"
     }
   },

@@ -1,12 +1,12 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.33",
   "description": "Sirr daemon \u2014 self-hosted ephemeral secret vault server",
   "homepage": "https://github.com/sirrlock/sirr",
   "license": "BSL-1.1",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.26/sirrd-windows-x64.zip",
-      "hash": "dd28c09f2063557b9049ec85b7f2bad385f62593966e9cb0d383b58e35858758",
+      "url": "https://github.com/sirrlock/sirr/releases/download/v1.0.33/sirrd-windows-x64.zip",
+      "hash": "61bb3ed746b26fab01a376965417ee478c206712f865ed656382d96c69236815",
       "bin": "sirrd.exe"
     }
   },
