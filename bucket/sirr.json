@@ -1,6 +1,6 @@
 {
   "version": "1.0.46",
-  "description": "CLI client for Sirr \u2014 push, get, and manage ephemeral secrets",
+  "description": "CLI client for Sirr \u2014 push dead drops, set org secrets, get and manage ephemeral secrets",
   "homepage": "https://github.com/sirrlock/sirr",
   "license": "MIT",
   "architecture": {

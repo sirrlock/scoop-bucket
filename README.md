@@ -15,7 +15,7 @@ scoop install sirrlock/sirr    # CLI client
 | Package | Description |
 |---------|-------------|
 | `sirrd` | Sirr daemon — self-hosted secret vault server |
-| `sirr`  | Sirr CLI — push, get, and manage secrets from the terminal |
+| `sirr`  | Sirr CLI — push dead drops, set org secrets, get and manage ephemeral secrets |
 
 ## Mac/Linux
 
