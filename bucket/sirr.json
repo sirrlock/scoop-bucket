@@ -1,17 +1,17 @@
 {
-  "version": "2.0.56",
+  "version": "2.0.57",
   "description": "CLI client for Sirr \u2014 push dead drops, set org secrets, get and manage ephemeral secrets",
   "homepage": "https://github.com/sirrlock/sirr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sirrlock/sirr/releases/download/v2.0.56/sirr-windows-x64.zip",
-      "hash": "d4d97be95a63d996989fda38d21af350701272ab6a973cd5f8ad6e86a50eb943",
+      "url": "https://github.com/sirrlock/sirr/releases/download/v2.0.57/sirr-windows-x64.zip",
+      "hash": "7c21ba4313f4c8556c3263dcc99b17808a99cf9412956623691d18d7095bea59",
       "bin": "sirr.exe"
     },
     "arm64": {
-      "url": "https://github.com/sirrlock/sirr/releases/download/v2.0.56/sirr-windows-arm64.zip",
-      "hash": "d2ded294cf723972c74d95d0e8de9ee975dc63f139a13ecdf57b0622353afe3e",
+      "url": "https://github.com/sirrlock/sirr/releases/download/v2.0.57/sirr-windows-arm64.zip",
+      "hash": "3ea6662dc810f82a8d85042df67d0abaade3f6a238f1cc2660d9db11d46d0821",
       "bin": "sirr.exe"
     }
   },
